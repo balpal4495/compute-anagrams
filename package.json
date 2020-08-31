@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/balpal4495/compute-anagrams.git",
-  "author": "baljit <baljit@trint.com>",
+  "author": "baljit <baljit4495@gmail.com>",
   "license": "MIT",
   "scripts": {
     "test": "jest --coverage",
