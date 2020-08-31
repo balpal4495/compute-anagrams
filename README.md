@@ -1,6 +1,6 @@
 # compute-anagrams
 
-Was built using node v14 so pleasure ensure that is pre installed before running.
+Was built using node v14 so please ensure that is pre installed before running.
 
 
 to run 
