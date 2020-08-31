@@ -31,6 +31,9 @@ async function anagram(filePath) {
     console.log('Processing:', currentLength);
   }
 
+  // This is a but heavy weight and might need rethinking,
+  // but the datastructure can be seen in the tests and would normally be spiked
+  // traversing it is a bit complex and can do with simplification, but this depends mostly on patterns
   const allEntries = Object.entries(anagramObject);
   for (const [, groups] of allEntries) {
 
